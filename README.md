@@ -1,6 +1,7 @@
 # React Image Uploading
 
-<p>live Demo : <a href="" ></a></p>
+<p>Live Demo : <a href="" >React Image Uploading</a></p>
+
 <p>This project demonstrates a simple and intuitive image uploading component built with React and the react-images-uploading library. It provides an easy-to-use interface for users to upload, update, and remove images with additional features such as file size validation. The initial display includes a default image which gets replaced upon selecting new images.</p>
 
 <hr></hr>
@@ -21,4 +22,4 @@
 
 <hr></hr>
 
-<img src="" alt="New User System" width="350" height="350px">
+<img src="https://github.com/sudhanshu1919/React_images_uploading/blob/main/image_uploder.png" alt="React Image Uploading" width="350" height="350px">
