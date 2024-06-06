@@ -22,4 +22,4 @@
 
 <hr></hr>
 
-<img src="https://github.com/sudhanshu1919/React_images_uploading/blob/main/image_uploder.png" alt="React Image Uploading" width="350" height="350px">
+<img src="https://github.com/sudhanshu1919/React_images_uploading/blob/main/image_uploder.png" alt="React Image Uploading" width="450" height="350px">
