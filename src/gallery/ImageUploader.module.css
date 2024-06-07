@@ -1,0 +1,78 @@
+/* ImageUploader.module.css */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.uploadImageWrapper {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.mainBtns {
+  background-color: #007bff;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin: 5px;
+  transition: 0.5s;
+}
+
+.mainBtns:hover {
+  background-color: #ff0505;
+  padding: 8px;
+}
+
+.imageList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.imageItem {
+  position: relative;
+  background-color: aliceblue;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.btnWrapper {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5px;
+}
+
+.updateBtn,
+.removeBtn {
+  background-color: #28a745;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  font-size: 14px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.updateBtn:hover {
+  background-color: #218838;
+}
+
+.removeBtn {
+  background-color: #dc3545;
+}
+
+.removeBtn:hover {
+  background-color: #c82333;
+}
+
+.errorMsg {
+  color: red;
+  margin-top: 10px;
+  font-size: 22px;
+}
