@@ -7,10 +7,10 @@
 <hr></hr>
 
 # Features
-<p>Multiple Image Upload: Users can upload multiple images simultaneously.</p>
-<p>Default Image Display: A default image is displayed initially before any image upload.</p>
-<p>Image Update and Remove: Users can update or remove individual images from the list.</p>
-<p>File Size Validation: Ensures that uploaded images do not exceed 100KB in size.</p>
+<p> <b> Multiple Image Upload </b>: Users can upload multiple images simultaneously.</p>
+<p> <b> Default Image Display</b>: A default image is displayed initially before any image upload.</p>
+<p> <b> Image Update and Remove</b>: Users can update or remove individual images from the list.</p>
+<p> <b> File Size Validation</b>: Ensures that uploaded images do not exceed 100KB in size.</p>
 
 <hr></hr>
 
